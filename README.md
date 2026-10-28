@@ -38,3 +38,28 @@ Learned Git fundamentals, branching, commits, Pull Requests, tags, and project d
 - Review changes through Pull Requests.
 - Tag stable versions.
 - Keep secrets out of the repository.
+
+
+
+
+## Screenshots
+
+### Pull Requests
+![Pull Requests](screenshots/pull-requests.png)
+
+### Repository Structure
+![Repository Structure](screenshots/repository.png)
+
+### Git Branches
+![Git Branches](screenshots/branches.png)
+
+### Git Tag
+![Git Tag](screenshots/tag-v1.0.0.png)
+
+### Git Terminal Output
+![Git Terminal Output](screenshots/git-terminal.png)
+
+## Conclusion
+This project demonstrates Git initialization, branching,
+commits, Pull Requests, tags, and Markdown documentation
+using Git and GitHub.
