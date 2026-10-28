@@ -30,3 +30,11 @@ Create a branch, make changes, commit them, push the branch, and open a Pull Req
 
 ## Outcome
 Learned Git fundamentals, branching, commits, Pull Requests, tags, and project documentation.
+
+
+## Git Best Practices
+- Use meaningful commit messages.
+- Create separate branches for new features.
+- Review changes through Pull Requests.
+- Tag stable versions.
+- Keep secrets out of the repository.
